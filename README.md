@@ -31,8 +31,11 @@ I'm a french web developper, living near Nancy, in the east of France.
 
 ## Activity on Github
 
-![SancetLandry's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SancetLandry&theme=vue&show_icons=true&hide_border=true&layout=compact)
+![SancetLandry's GitHub stats](https://github-readme-stats.vercel.app/api?username=SancetLandry&show_icons=true&theme=dracula)
 
+
+  
+  ## Socials
 <!--reference links-->
 [linkedin]:https://www.linkedin.com/in/landrysancet/
 [twitter]: https://twitter.com/Landry_sct
