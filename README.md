@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <span style="color:#0ac3a7">Hi, I'm Landry</span>
 
-I'm a french back-end web developper, living near Nancy, in the east of France.
+I'm a french web developper, living near Nancy, in the east of France.
 
 - 🌱 I’m learning web development (JavaScript with Nodejs, Express, PostgreSQL...) with [O'Clock full remote school](https://oclock.io/), promo Olduvaï(intensive study, 798H). 
 
