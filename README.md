@@ -2,7 +2,7 @@
 
 I'm a french web developper, living near Nancy, in the east of France.
 
-- 🌱 I’m learning web development (JavaScript with Nodejs, Express, PostgreSQL...) with [O'Clock full remote school](https://oclock.io/), promo Olduvaï(intensive study, 798H). 
+- 🌱 I’m learning web development (JavaScript with Nodejs, Express, PostgreSQL...) with [O'Clock full remote school](https://oclock.io/), promo Olduvaï (intensive study, 798H). 
 
 - 🖥️ I think i'm going to choose React specialization for the end of my formation.
 
