@@ -31,6 +31,6 @@ I'm a french web developper, living near Nantes, in France.
 
 ## Activity on Github
 
-![SancetLandry's GitHub stats](https://github-readme-stats.vercel.app/api?username=SancetLandry&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SancetLandry&layout=compact)](https://github.com/SancetLandry/github-readme-stats)
 
 
