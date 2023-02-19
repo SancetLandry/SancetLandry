@@ -4,7 +4,7 @@ I'm a french web developper, living near Nantes, in France.
 
 - 🌱 I’m learning web development (JavaScript with Nodejs, Express, PostgreSQL...) with [O'Clock full remote school](https://oclock.io/), promo Olduvaï (intensive study, 798H). 
 
-- 🖥️ I think i'm going to choose React specialization for the end of my formation.
+- 🖥️ I specialized in React for the end of my training.
 
 - 📜 I'm going to do the "Titre Pro Développeur Web et Web Mobile" and the Opquast certification, level advanced.
 
